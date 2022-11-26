@@ -1,0 +1,6 @@
+# files
+.env
+*.json
+
+# folders
+node_modules/
